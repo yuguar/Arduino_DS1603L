@@ -17,6 +17,10 @@ White: Rx
 
 Tested on Arduino Pro Mini, expected to work on any other processor that offers a Serial type interface.
 
+Link to Arduino forum page:
+
+https://forum.arduino.cc/t/how-to-read-serial-data-from-non-contact-ultrasonic-liquid-level-sensor/507781/35
+
 How to use this library
 -
 
